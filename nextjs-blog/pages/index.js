@@ -28,7 +28,7 @@ export default function Home ({ allPostsData }) {
         </p>
         <a href="https://twitter.com/garba_tanimu" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">@garba_tanimu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         {''}
-        <a class="github-button" href="https://github.com/mukhtar-github" aria-label="Follow @mukhtar-github on GitHub">@mukhtar-github</a>
+        <a class="github-button" href="https://github.com/mukhtar-github" data-size="large" aria-label="Follow @mukhtar-github on GitHub">@mukhtar-github</a>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
