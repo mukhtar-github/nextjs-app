@@ -10,8 +10,8 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I am Mukhtar Garba, a MERN Stack Developer. So far, the time metrics in my programming journey have amounted to 2200 hours plus, averaging working 3 hours per day for two consecutive years on a streak.
-          I'm currently working on a SaaS Project named VIMAP.<br></br> VIMAP is an acronym for Vehicles Information Management Application. MERN Stack is the technology used for building this software application.<br></br> The software's function is to collect, store, and get information about vehicles in organizations. And to also enable printing vehicle's info in pdf, word, etc.<br></br> When my knowledge grew stronger I will want to add more features like GPS tracking, maps, and vehicle's inventory features.<br></br>
+          I am <strong>Mukhtar</strong>, a MERN Stack Developer.<br></br> So far, the time metrics in my programming journey has amounted to 2200 hours plus, averaging working 3 hours per day for two consecutive years on a streak.<br></br>
+          I'm currently working on a SaaS Project named VIMAP.<br></br> VIMAP is an acronym for Vehicles Information Management Application. MERN Stack is the technology used for the building the software application.<br></br> The software's function is to collect, store, and get information about vehicles in organizations. And to also enable printing vehicle's info in pdf, word, etc.<br></br> When my knowledge grew stronger I will want to add more features like GPS tracking, maps, and vehicle's inventory features.<br></br>
           So far I was able to build a tested development backend using Node.js, and I'm presently ongoing with some React courses to help me build an amazing interacting UI.<br></br> VIMAP is a startup project, so wish us Goodluck, please.<br></br> Thank you.
         </p>
     
