@@ -26,7 +26,7 @@ export default function Home ({ allPostsData }) {
           I'm currently working on a SaaS Project named VIMAP.<br /> VIMAP is an acronym for Vehicles Information Management Application. MERN Stack is the technology used for building the software application.<br /> The software's function is to collect, store, and get information about vehicles in organizations. And to also enable printing vehicle's info in pdf, word, etc.<br /> When my knowledge grew stronger I will want to add more features like GPS tracking, maps, and vehicle's inventory features.<br />
           So far, I was able to build a tested development backend using Node.js, and I'm presently ongoing with some React courses to help me build an amazing interacting UI.<br /> VIMAP is a startup project, so wish us Goodluck, please.<br></br> Thank you.
         </p>
-        <a href="https://twitter.com/garba_tanimu" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">@garba_tanimu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+        <a href="https://twitter.com/garba_tanimu" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">@garba_tanimu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{''}
         <a class="github-button" href="https://github.com/mukhtar-github" data-size="large" aria-label="Follow @mukhtar-github on GitHub">GitHub</a>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
