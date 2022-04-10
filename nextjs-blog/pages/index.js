@@ -4,7 +4,6 @@ import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
-import GitHubButton from 'react-github-btn'
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
@@ -20,7 +19,6 @@ export default function Home ({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
@@ -47,6 +45,7 @@ export default function Home ({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
     </Layout>
   )
 }
