@@ -4,6 +4,7 @@ import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
+import GitHubButton from 'react-github-btn'
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
@@ -19,7 +20,6 @@ export default function Home ({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
@@ -28,7 +28,7 @@ export default function Home ({ allPostsData }) {
           So far, I was able to build a tested development backend using Node.js, and I'm presently ongoing with some React courses to help me build an amazing interacting UI.<br /> VIMAP is a startup project, so wish us Goodluck, please.<br></br> Thank you.
         </p>
         <a href="https://twitter.com/garba_tanimu" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">@garba_tanimu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
-        <a class="github-button" href="https://github.com/mukhtar-github" data-size="large" aria-label="Follow @mukhtar-github on GitHub">GitHub</a>
+        <GitHubButton href="https://github.com/mukhtar-github" data-size="large" aria-label="Follow @mukhtar-github on GitHub">Follow</GitHubButton>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
