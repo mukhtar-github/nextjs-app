@@ -11,7 +11,7 @@ When I realized the dialogue within my inner self can either make me or destroy 
 
 > _“What you focus on most of the time gets bigger and dominates your thinking and your life.”_
 
-With the high expectation that I’ve passed all the exams, I wrote for successful graduation, only to receive a call from my PG School that I have a course to resit. Overwhelmed with sadness, frustration, and depression, I decided to throw in the towel.
+With the high expectation that I’ve passed all the exams I wrote for a successful graduation, only to receive a call from my PG School that I have a course to resit. Overwhelmed with sadness, frustration, and depression, I decided to throw in the towel.
 
 Although, life is generally a battleground, filled with struggles to achieve set goals. There are stages you’d think you are done with, only to realize that you’ve been trapped in it. Huh!
 
