@@ -24,7 +24,7 @@ export default function Home ({ allPostsData }) {
         <div>
           <p>
             Hi! I am <strong>Mukhtar</strong>, a Mechanical Engineer transformed into a Software Developer. I started my programming journey in October 2018, as a non-traditional developer with no background in CS. So far the time metrics have amounted to about 2500 hours on counting.<br />
-Being a Fleet Engineer at the Organization where I work, we were always faced with the challange of going through archives to get vehicles information and to update as well. 
+Being a Fleet Engineer at the Organization where I work, we were always faced with the challange of going through archives to get vehicles information and to update the information as well. 
 As a result of that challenge, the idea of <strong><a href="https://www.vimap.io/">VIMAP</a></strong> which is an acronym for <i>Vehicles Information Management Application</i> came up to provide solution for the replacement of hard copies of vehicles information, and for easy accessing and updating vehicles information. 
 The software's features are, but not limited to, the Collection and Storage of Vehicles Information, Inventory, GPS tracking, Maps, Insurance updates. <strong>VIMAP</strong> is a Startup project, so wish us Goodluck, please. Thank you.
           </p>
