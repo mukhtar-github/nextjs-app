@@ -36,9 +36,7 @@ export default function Home({ allPostsData }) {
               <a href="https://www.vimap.io/">VIMAP</a>
             </strong>
             , an acronym for <i>Vehicles Information Management Application</i>,
-            came up to provide a solution for the replacement of hard copies of
-            vehicle information and easy accessing and updating of vehicle
-            information. The software's features are; but are not limited to the
+            came up to provide a solution to replace the hard copies method of saving and updating vehicle information with a simple application to save, access, and update vehicle information. The software's features are; but are not limited to the
             Collection and Storage of Vehicles Information, Inventory, GPS
             tracking, and Insurance updates.
           </p>
