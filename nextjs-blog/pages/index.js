@@ -43,6 +43,7 @@ export default function Home({ allPostsData }) {
             and more.
           </p>
         </div>
+        <h5>Sample View of the App</h5>
         <div>
           <a href="https://postimages.org/" target="_blank">
             <img
