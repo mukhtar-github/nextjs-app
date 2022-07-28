@@ -27,20 +27,32 @@ export default function Home({ allPostsData }) {
             transitioned into a Software Developer. I started my programming
             journey in 2018 as a non-traditional developer with no background in
             Computer Science.
-            <br />
+          </p>
+        </div>
+        <div>
+          <p>
             As a Fleet Manager at the Organization where I work, the challenge
             of going through archives to get vehicle information for updates was
-            time-consuming. As a result of that challenge, the idea of{" "}
+            time-consuming.
+          </p>
+        </div>
+        <div>
+          <p>
+            As a result of that challenge, the idea of{" "}
             <strong>
               <a href="https://www.vimap.io/">VIMAP</a>
             </strong>
             , an acronym for <i>Vehicles Information Management Application</i>,
             came up to provide a solution to replace the hard copies method of
             saving and updating vehicle information with a simple application to
-            save, access, and update vehicle information. VIMAP is a fleet
-            wallet. The software's features are the Collection and Storage of
-            Vehicles Information, Inventory, GPS tracking, Insurance updates,
-            and more.
+            save, access, and update vehicle information.
+          </p>
+        </div>
+        <div>
+          <p>
+            VIMAP is a fleet wallet. The software's features are the Collection
+            and Storage of Vehicles Information, Inventory, GPS tracking,
+            Insurance updates, and more.
           </p>
         </div>
         <h5>Sample View of the App</h5>
