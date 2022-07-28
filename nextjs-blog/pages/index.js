@@ -53,6 +53,7 @@ export default function Home({ allPostsData }) {
             />
           </a>
         </div>
+        <br />
         <div>
           <a href="https://postimages.org/" target="_blank">
             <img
@@ -62,6 +63,7 @@ export default function Home({ allPostsData }) {
             />
           </a>
         </div>
+        <br />
         <div>
           <a
             href="https://twitter.com/garba_tanimu"
