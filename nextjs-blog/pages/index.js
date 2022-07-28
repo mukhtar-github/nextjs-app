@@ -23,11 +23,10 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <div>
           <p>
-            Hi! I am <strong>Mukhtar</strong>, a Mechanical Engineer transformed
-            into a Software Developer. I started my programming journey in
-            October 2018 as a non-traditional developer with no background in
-            CS. So far, the time metrics have amounted to about 2500 hours on
-            counting.
+            Hi! I'm <strong>Mukhtar</strong>, a Mechanical Engineer who
+            transitioned into a Software Developer. I started my programming
+            journey in 2018 as a non-traditional developer with no background in
+            Computer Science.
             <br />
             As a Fleet Manager at the Organization where I work, the challenge
             of going through archives to get vehicle information for updates was
@@ -36,10 +35,29 @@ export default function Home({ allPostsData }) {
               <a href="https://www.vimap.io/">VIMAP</a>
             </strong>
             , an acronym for <i>Vehicles Information Management Application</i>,
-            came up to provide a solution to replace the hard copies method of saving and updating vehicle information with a simple application to save, access, and update vehicle information. The software's features are; but are not limited to the
-            Collection and Storage of Vehicles Information, Inventory, GPS
-            tracking, and Insurance updates.
+            came up to provide a solution to replace the hard copies method of
+            saving and updating vehicle information with a simple application to
+            save, access, and update vehicle information. VIMAP is a fleet
+            wallet. The software's features are the Collection and Storage of
+            Vehicles Information, Inventory, GPS tracking, Insurance updates,
+            and more.
           </p>
+        </div>
+        <div>
+          <a href="https://postimages.org/" target="_blank">
+            <img
+              src="https://i.postimg.cc/50bDXhJ5/Whats-App-Image-2022-07-28-at-12-48-37-PM.jpg"
+              border="0"
+              alt="Whats-App-Image-2022-07-28-at-12-48-37-PM"
+            />
+          </a>
+          <a href="https://postimages.org/" target="_blank">
+            <img
+              src="https://i.postimg.cc/C5z0K3CP/Whats-App-Image-2022-07-28-at-12-48-41-PM.jpg"
+              border="0"
+              alt="Whats-App-Image-2022-07-28-at-12-48-41-PM"
+            />
+          </a>
         </div>
         <a
           href="https://twitter.com/garba_tanimu"
