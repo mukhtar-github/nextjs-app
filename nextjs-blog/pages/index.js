@@ -52,6 +52,8 @@ export default function Home({ allPostsData }) {
               alt="Whats-App-Image-2022-07-28-at-12-48-37-PM"
             />
           </a>
+        </div>
+        <div>
           <a href="https://postimages.org/" target="_blank">
             <img
               src="https://i.postimg.cc/C5z0K3CP/Whats-App-Image-2022-07-28-at-12-48-41-PM.jpg"
@@ -60,29 +62,31 @@ export default function Home({ allPostsData }) {
             />
           </a>
         </div>
-        <a
-          href="https://twitter.com/garba_tanimu"
-          class="twitter-follow-button"
-          data-size="large"
-          data-show-screen-name="false"
-          data-show-count="false"
-        >
-          @garba_tanimu
-        </a>
-        <script
-          async
-          src="https://platform.twitter.com/widgets.js"
-          charset="utf-8"
-        ></script>
-        &nbsp;&nbsp;
-        <a
-          class="github-button"
-          href="https://github.com/mukhtar-github"
-          data-size="large"
-          aria-label="Follow @mukhtar-github on GitHub"
-        >
-          GitHub
-        </a>
+        <div>
+          <a
+            href="https://twitter.com/garba_tanimu"
+            class="twitter-follow-button"
+            data-size="large"
+            data-show-screen-name="false"
+            data-show-count="false"
+          >
+            @garba_tanimu
+          </a>
+          <script
+            async
+            src="https://platform.twitter.com/widgets.js"
+            charset="utf-8"
+          ></script>
+          &nbsp;&nbsp;
+          <a
+            class="github-button"
+            href="https://github.com/mukhtar-github"
+            data-size="large"
+            aria-label="Follow @mukhtar-github on GitHub"
+          >
+            GitHub
+          </a>
+        </div>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
