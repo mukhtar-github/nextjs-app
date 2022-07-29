@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <div>
           <p>
-            Hi! I'm <strong>Mukhtar</strong>, a Mechanical Engineer who
+            Hi! I'm <strong>Mukhtar</strong>, a Mechanical Engineer that
             transitioned into a Software Developer. I started my programming
             journey in 2018 as a non-traditional developer with no background in
             Computer Science.
