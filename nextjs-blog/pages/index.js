@@ -31,28 +31,33 @@ export default function Home({ allPostsData }) {
         </div>
         <div>
           <p>
-            As a Fleet Manager at the Organization where I work, the challenge
-            of going through archives to get vehicle information for updates was
-            time-consuming.
+            While working as a Fleet Manager with my employer, there was this
+            challenge of going through archives to get vehicle information for
+            updates which was time-consuming.
           </p>
         </div>
         <div>
           <p>
-            As a result of that challenge, the idea of{" "}
+            The challenge gave birth to the idea of{" "}
             <strong>
               <a href="https://www.vimap.io/">VIMAP</a>
-            </strong>
-            , an acronym for <i>Vehicles Information Management Application</i>,
-            came up to provide a solution to replace the hard copies method of
-            saving and updating vehicle information with a simple application to
-            save, access, and update vehicle information.
+            </strong>{" "}
+            , an acronym for <i>Vehicles Information Management Application.</i>
           </p>
         </div>
         <div>
           <p>
-            VIMAP is a fleet wallet. The software's features are the Collection
-            and Storage of Vehicles Information, Inventory, GPS tracking,
-            Insurance updates, and more.
+            The software provides a solution to replace the hard copies method
+            of accessing, saving, and updating vehicle information.
+          </p>
+        </div>
+        <div>
+          <p>VIMAP is a fleet wallet for organizations.</p>
+        </div>
+        <div>
+          <p>
+            The software's features are the Collection and Storage of Vehicles
+            Information, Inventory, Insurance updates, and more.
           </p>
         </div>
         <h5>Sample View of the App</h5>
