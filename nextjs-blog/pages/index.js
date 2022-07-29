@@ -41,7 +41,7 @@ export default function Home({ allPostsData }) {
             The challenge gave birth to the idea of{" "}
             <strong>
               <a href="https://www.vimap.io/">VIMAP</a>
-            </strong>{" "}
+            </strong>
             , an acronym for <i>Vehicles Information Management Application.</i>
           </p>
         </div>
